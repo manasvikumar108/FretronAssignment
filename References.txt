@@ -1,0 +1,30 @@
+##First Question References:
+
+1. Provided information on plotting and customizing plots:
+
+Query: "How to plot multiple lines with offsets in Python"
+Site: "https://www.geeksforgeeks.org/line-chart-in-matplotlib-python/"
+
+2. Discussed techniques to add visual separation between lines:
+
+Query: "python matplotlib plot limits"
+Site: "https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xlim.html"
+
+
+##Second Question References:
+
+1. Java ArrayList Sorting:
+
+Query: "Java sort ArrayList in descending order"
+Site: "https://docs.oracle.com/javase/8/docs/api/java/util/ArrayList.html"
+
+2. Java Iterators:
+
+Query: "Java Iterator example"
+Site: "https://www.javatpoint.com/java-iterator"
+
+3. Java Collections Framework:
+
+Query: "Java Collections Framework tutorial"
+Site: "https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.htm"
+
